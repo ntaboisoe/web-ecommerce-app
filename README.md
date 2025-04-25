@@ -4,6 +4,10 @@
 [![Built With](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge&logo=codepen)]()
 [![Status](https://img.shields.io/badge/Status-LIVE-success?style=for-the-badge&logo=vercel)]()
 
+[![GitHub Stars](https://img.shields.io/github/stars/ntaboisoe/web-ecommerce-app?style=for-the-badge)](https://github.com/ntaboisoe/web-ecommerce-app/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ntaboisoe/web-ecommerce-app?style=for-the-badge)](https://github.com/ntaboisoe/web-ecommerce-app/network/members)
+[![License](https://img.shields.io/github/license/ntaboisoe/web-ecommerce-app?style=for-the-badge)](https://github.com/ntaboisoe/web-ecommerce-app/blob/main/LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/ntaboisoe/web-ecommerce-app?style=for-the-badge)](https://github.com/ntaboisoe/web-ecommerce-app/commits/main)
 
 Welcome to **RobsMart**, a modern, responsive e-commerce platform designed to showcase various product categories including clothes, shoes, soft drinks, cooking oil, and computers. This site is fully front-end based and hosted on GitHub Pages.
 
