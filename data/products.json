@@ -1,0 +1,14 @@
+{
+  "products": [
+    { "name": "T-shirt", "price": "$10", "image": "assets/images/clothes_image1.jpg" },
+    { "name": "Jeans", "price": "$20", "image": "assets/images/clothes_image2.jpg" },
+    { "name": "Sneakers", "price": "$35", "image": "assets/images/shoes_image1.jpg" },
+    { "name": "Loafers", "price": "$40", "image": "assets/images/shoes_image2.jpg" },
+    { "name": "Coca-Cola", "price": "$2", "image": "assets/images/softdrinks_image1.jpg" },
+    { "name": "Fanta", "price": "$2", "image": "assets/images/softdrinks_image2.jpg" },
+    { "name": "Cooking Oil 1L", "price": "$5", "image": "assets/images/cookingoil_image1.jpg" },
+    { "name": "Cooking Oil 5L", "price": "$20", "image": "assets/images/cookingoil_image2.jpg" },
+    { "name": "Laptop", "price": "$500", "image": "assets/images/computers_image1.jpg" },
+    { "name": "Mouse", "price": "$15", "image": "assets/images/computers_image2.jpg" }
+  ]
+}
